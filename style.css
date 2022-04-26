@@ -10,10 +10,8 @@ body {
 }
 
 #main {
-  width: 100%;
-  height: 100vh;
   margin: 24px 12px;
-  padding: 12px;
+  padding: 24px 12px;
   background-color: #eee;
 }
 
@@ -29,7 +27,7 @@ body {
 
 #img-div {
   margin: 0;
-  padding: 15px;
+  padding: 14px;
   background-color: #fff;
 }
 
@@ -41,5 +39,34 @@ body {
 }
 
 #img-caption {
-  margin: 15px 0 5px 0;
+  margin: 14px 0px;
+  text-align: center;
+}
+
+#tribute-info {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 12px;
+}
+
+.tribute-info-heading {
+  text-align: center;
+  margin: 24px 0px;
+}
+
+#tribute-info ul li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 40px;
+}
+
+.footer {
+  margin-top: 24px;
+  text-align: center;
+  font-style: normal;
+}
+
+.quote {
+  text-align: center;
+  margin: 24px 0px;
 }
