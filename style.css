@@ -41,5 +41,6 @@ body {
 }
 
 #img-caption {
-  margin: 15px 0 5px 0;
+  margin: 15px 0px;
+  text-align: center;
 }
